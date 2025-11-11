@@ -26,3 +26,4 @@ C:\Users\aokip\OneDrive\デスクトップ\AtCoder2025\ABC350A\bin\Debug\net9.0\
 C:\Users\aokip\OneDrive\デスクトップ\AtCoder2025\ABC350A\bin\Debug\net9.0\Template.pdb
 C:\Users\aokip\OneDrive\デスクトップ\AtCoder2025\ABC350A\obj\Debug\net9.0\Template.genruntimeconfig.cache
 C:\Users\aokip\OneDrive\デスクトップ\AtCoder2025\ABC350A\obj\Debug\net9.0\ref\Template.dll
+C:\Users\aokip\OneDrive\デスクトップ\AtCoder2025\ABC350A\obj\Debug\net9.0\Template.sourcelink.json

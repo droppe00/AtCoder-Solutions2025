@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B\\Template.csproj": {}
+    "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B-2\\Template.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B\\Template.csproj": {
+    "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B-2\\Template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B\\Template.csproj",
+        "projectUniqueName": "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B-2\\Template.csproj",
         "projectName": "Template",
-        "projectPath": "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B\\Template.csproj",
+        "projectPath": "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B-2\\Template.csproj",
         "packagesPath": "C:\\Users\\aokip\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B\\obj\\",
+        "outputPath": "c:\\Users\\aokip\\OneDrive\\デスクトップ\\AtCoder2025\\ABC081B-2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
